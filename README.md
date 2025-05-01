@@ -25,9 +25,9 @@ Source code, documentation, and essay for Project 1 of Probability and Applied S
 ## How to Use This Repository
 
 - In 'src/', locate each folder containing the code for each programming project
-- 
+  
 - Each folder in 'src/' will have all classes for their project, separated into Javadoc files
-- 
+ 
 - Go inside the 'doc/' folder for access to documentation and essay
-- 
+  
 - Documentation for each programming project is separated into PDFs
